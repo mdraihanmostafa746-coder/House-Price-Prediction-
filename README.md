@@ -171,7 +171,7 @@ The saved model can be loaded using Joblib for future predictions.
 
 B.Sc. Data Science Student | Aspiring AI Engineer
 
-GitHub: [mdraihan746-coder](https://github.com/mdraihan746-coder)
+GitHub: [mdraihanmostafa746-coder](https://github.com/mdraihanmostafa746-coder)
 
 ---
 
